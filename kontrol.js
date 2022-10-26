@@ -66,10 +66,10 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/kris.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/krishosting569'
+global.mygit = 'https://github.com/hakaren'
 global.myyt = 'https:'
 global.myytv = 'https:'
-global.mygc = "https://chat.whatsapp.com/KeyflNVrBsN6ctjfevI3n0"
+global.mygc = "https://chat.whatsapp.com/HcPAXNQFQKP5SrTT3PIGGy"
 global.botname = 'JegABotz'
 global.akulaku = 'Bot aga'
 global.ytname = '-'

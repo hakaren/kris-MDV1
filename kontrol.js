@@ -1,8 +1,8 @@
 //⫰⫯ 𝑵𝒐𝒕𝒆 : 𝑲𝒂𝒍𝒂𝒖 𝑴𝒂𝒖 𝑫𝒊 𝑯𝒂𝒑𝒖𝒔 𝑴𝒊𝒌𝒊𝒓 𝑫𝒖𝒍𝒖 𝑵𝒈𝒂𝒃 𝑺𝒊𝒂𝒑𝒂 𝒀𝒂𝒏𝒈 𝑩𝒊𝒌𝒊𝒏 𝑺𝒄𝒓𝒊𝒑𝒕 𝑫𝒂𝒏 𝑴𝒆𝒏𝒈𝒆𝒅𝒊𝒕 𝑵𝒚𝒂
 
-//𝐀𝐮𝐭𝐡𝐨𝐫 : 𝑲𝒓𝒊𝒔 𝑯𝒐𝒔𝒕𝒊𝒏𝒈
-//𝐖𝐚 : 085786211623 / 0882007324217
-//sc : nazedev
+//𝐀𝐮𝐭𝐡𝐨𝐫 : aga md
+//𝐖𝐚 : 082144607416 / 082144607416
+//sc : aga
 //𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 10 𝑶𝒌𝒕𝒐𝒃𝒆𝒓 2022
 
 //⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
@@ -19,7 +19,7 @@
 //⭝ 𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒂𝒏 𝑰𝒅
 //⭝ 𝑨𝒊𝒏𝒆
 //⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-//⭝ 𝑲𝒓𝒊𝒔 𝑯𝒐𝒔𝒕𝒊𝒏𝒈//
+//⭝ aga md//
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -35,11 +35,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285786211623']
-global.ownernomer = "6285786211623"
-global.premium = ['6285786211623']
+global.owner = ['6282144607416']
+global.ownernomer = "6282144607416"
+global.premium = ['6282144607416']
 global.packname = 'Sticker By'
-global.author = 'Kris Hosting'
+global.author = 'aga Hosting'
 global.sessionName = 'krisss'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -67,12 +67,12 @@ global.limitawal = {
 global.thumb = fs.readFileSync('./media/image/kris.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/krishosting569'
-global.myyt = 'https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg'
-global.myytv = 'https://youtu.be/sHVzVFMHHk8'
+global.myyt = 'https:'
+global.myytv = 'https:'
 global.mygc = "https://chat.whatsapp.com/KeyflNVrBsN6ctjfevI3n0"
-global.botname = 'KrisBotz'
-global.akulaku = 'Bot KrisHosting'
-global.ytname = 'KrisHosting'
+global.botname = 'JegABotz'
+global.akulaku = 'Bot aga'
+global.ytname = '-'
 
 
 let file = require.resolve(__filename)
